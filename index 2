@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>html.Voorstelling</title>
+</head>
+<body>
+
+    <h1 style="color:red;">Zelf Voorstelling in Vorm Van Curriculum vitae.</h1>
+        <p>Ik ben Prince Ansu Amankona. Ik ben 23 jaar en ik kom uit Ghana.</p>
+            <br>
+<h2 style="color:red;">Mijn Studies</h2>
+    <p>2017-2018: 7 de Business Support / Sint-Guido instituut, Anderlecht: Diploma.</p>       
+    <h3 style="color:darkgreen;" >Werkervaring</h2>
+     <h4>Jobstudent</h4>
+         <p>2017:  NMBS Infrabel: Magazijnbediende.</p>
+             <p >-Taken: Inpakken.</p>
+                 <p>2017: Huis van de Mens Brussel.</p>
+<P>-Taken: Receptionist (Telefoon beantwoorden en doorverbinden.</p>
+    <P>2016: TNT: Magazijnbediende.</p>
+     <p>-Taken: Inpakken en dozen scannen.<P>
+         <p>2012: Sport direct: Magazijnie.</p>
+             <p>-Taken: Bestellingen opnemen en opdienen, kassa, helpen in de voorraad.</p>
+                 <br>   
+<h2 style="color:blue;">Mijn Stage</h2>
+    <p>2017: Huis van De Mens: Onthaal- en administratief medewerker / 2 dagen per week.</p>
+     <p>2016: Caritas Internationaal: Hulpboekhouding / 2 dagen per week.</p>
+        <p>2015: C&A: Verkoper / 1 maand.</p>
+         <p>2014: Standaard boekhandel: Magazijnbediende / 1 maand.</p>
+            <br>
+<h2 style="color:navy">Taalkennis</h2>
+                <p>Taal:"Ik spreek Nederlands, Engels en eenbeetje Frans.</p>
+                    <br>
+<h1 style="color:brown">Computervaardigheden </h2>
+        <p>-	Microsoft Windows Office, Word, Excel, Access, PowerPoint, Adobe Photoshop.</p>
+            <br>
+<h2 style="color:brown">Beschikbaarheid</h2>
+        <p>Vakantie: Juli en Augustus</p>
+            <p>Schooljaar: Zaterdag</p>
+            <br>
+             <h2 style="color:brown">Personaliteit</h2>
+                 <p>- Ik ben stipt en werk nauwkeurig.</p>
+                     <p>- Flexibel: Ik pas mij aan aan veranderende werkuren en verschillende situaties.</p>
+                        <p>- Behulpzaam: Ik help graag waar ik kan.</p>
+                          <p>- Stressbestendig: Ik blijf klam en werk door als ik veel werk heb.</p>
+
+    
+
+</body>
+</html> 
